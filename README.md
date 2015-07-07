@@ -1,0 +1,1 @@
+El proyecto "random" genera numero aleatorios y se utiliza para ilustrar el funcionamiento de la sentencia if/else.
